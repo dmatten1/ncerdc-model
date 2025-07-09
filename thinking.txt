@@ -1,0 +1,8 @@
+which ones do we want to use?
+
+attendance
+collegeboard
+curtest
+exit ***primary table, only need to left join to this
+masterbuild (is there anything new here?)
+transcripts (just the gpa bit)
