@@ -6,3 +6,14 @@ curtest
 exit ***primary table, only need to left join to this
 masterbuild (is there anything new here?)
 transcripts (just the gpa bit)
+
+
+
+whats good to go?
+attendance_mastid
+ec_unique
+exit_master (base table)
+transcripts
+
+
+REDO ATTENDANCE WHEN MATT ADDS MORE DATA
