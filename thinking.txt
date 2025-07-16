@@ -17,3 +17,6 @@ transcripts
 
 
 REDO ATTENDANCE WHEN MATT ADDS MORE DATA
+
+
+so we need to think about how to keep dropouts -- they dont have gpas all the way through for example
