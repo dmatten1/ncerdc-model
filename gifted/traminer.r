@@ -13,8 +13,8 @@ library(ggplot2)
 library(seqhandbook)
 library(tidyverse)
 
-transcripts <- read.csv("Desktop/ncerdc_ml/ml-project-structure-demo/data/processed/transcripts_master.csv")
-gifted <- read.csv("Desktop/ncerdc_ml/ml-project-structure-demo/data/processed/masterbuild_master.csv")
+transcripts <- read.csv("../data/transcripts_master.csv")
+gifted <- read.csv("../data/masterbuild_master.csv")
 
 
 # First, create a list of non-gifted mastids from the `gifted` dataframe
