@@ -4,7 +4,7 @@ This repository contains code, analyses, and models related to our research usin
 
 ## 📁 Dataset
 
-Our project is built upon a longitudinal dataset sourced from the [NCERDC](https://childandfamilypolicy.duke.edu/research/north-carolina-education-research-data-center-ncerdc/), which maintains a secure archive of student-level data from the North Carolina Department of Public Instruction. The dataset includes detailed student demographics, course enrollments, test scores, school and district identifiers, and program participation flags (e.g., gifted, special education, free/reduced lunch).
+Our project is built upon a longitudinal dataset sourced from the [NCERDC](https://childandfamilypolicy.duke.edu/north-carolina-education-research-data/), which maintains a secure archive of student-level data from the North Carolina Department of Public Instruction. The dataset includes detailed student demographics, course enrollments, test scores, school and district identifiers, and program participation flags (e.g., gifted, special education, free/reduced lunch).
 
 > **Note**: Access to the NCERDC dataset requires a data use agreement. This repository does **not** contain any raw or identifiable student data.
 
@@ -45,4 +45,4 @@ A summary of our findings and methods is available in our project poster: **[Vie
 
 This repository is for **academic and non-commercial** use only. It adheres to all NCERDC data use agreements and contains no raw or identifiable student data.
 
-Special thanks to the [North Carolina Education Research Data Center (NCERDC)](https://childandfamilypolicy.duke.edu/research/north-carolina-education-research-data-center-ncerdc/) for making this research possible.
+Special thanks to the North Carolina Education Research Data Center for making this research possible.
