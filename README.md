@@ -18,7 +18,8 @@ We analyzed how student achievement metrics (e.g., standardized test scores, GPA
 
 - Cohort comparisons and trend visualization  
 - Difference-in-differences models  
-- Subgroup analyses by race/ethnicity, economic status, and school locale  
+- Subgroup analyses by race/ethnicity, economic status
+- SAT participation  
 
 ### 2. Gifted Label Effects
 
